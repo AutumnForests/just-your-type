@@ -16,8 +16,9 @@ html {
   font-family: 'Archivo Black', sans-serif;
 }
 
-cite {
+h1 {
   font-family: 'Nothing You Could Do', cursive;
+  color:#c6ddfe;
 }
 
 div {
@@ -27,12 +28,7 @@ div {
   border-radius: 8px;
 }
 
-
 p {
-  color: #c6ddfe;
-}
-
-footer {
   color: #c6ddfe;
 }
 
