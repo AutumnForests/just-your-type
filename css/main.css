@@ -1,0 +1,28 @@
+html {
+  background-color: #959ca1;
+}
+
+.quiet {
+  font-family: 'Raleway', sans-serif;
+}
+
+.have {
+  font-family: 'Raleway', sans-serif;
+}
+
+.loudest {
+  font-family: 'Archivo Black', sans-serif;
+}
+
+cite {
+  font-family: 'Nothing You Could Do', cursive;
+}
+
+blockquote {
+  color: #c6ddfe;
+  background-color: #44538f;
+}
+
+footer {
+  background-color: #44538f;
+}
